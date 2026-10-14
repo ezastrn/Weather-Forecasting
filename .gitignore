@@ -1,0 +1,24 @@
+# Python environments and interpreter state
+.venv/
+.ipython/
+kernels/
+local_weather_kernel/
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints and local editor settings
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Test, coverage, and build artefacts
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
